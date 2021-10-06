@@ -10,6 +10,10 @@ already covered topics
 
 Not required
 - [x] Reporting
+- [x] ETL
+
+# Data Munging/ - Wrangling
+- [x] PCA
 
 # Programming
 - [x] Python
@@ -17,6 +21,7 @@ Not required
 - [x] Virtual envs
 - [x] Jupyter
 - [x] Data Mining
+- [x] Awesome Public Datasets
 
 Not required
 - [x] Web Scraping

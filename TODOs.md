@@ -1,14 +1,6 @@
 ongoing topics to cover
 
-# Fundamentals
-Not required
-- [ ] ETL
-
-# Programming
-- [ ] Awesome Public Datasets
-
 # Data Munging/ - Wrangling
-- [ ] PCA
 - [ ] Dimension & Numeriosity Reduction
 - [ ] Normalization
 - [ ] Data Scrubbing
