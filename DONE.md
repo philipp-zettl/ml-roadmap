@@ -14,6 +14,7 @@ Not required
 
 # Data Munging/ - Wrangling
 - [x] PCA
+	- short summary and an example [here](https://wiki.godesteem.de/wiki/pca-using-svd/)
 
 # Programming
 - [x] Python
