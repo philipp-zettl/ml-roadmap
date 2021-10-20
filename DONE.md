@@ -15,6 +15,10 @@ Not required
 # Data Munging/ - Wrangling
 - [x] PCA
 	- short summary and an example [here](https://wiki.godesteem.de/wiki/pca-using-svd/)
+- [x] [Dimension Reduction](Data_Munging_Wrangling/Dimension_Reduction.md)
+- [x] [Numerosity Reduction](Data_Munging_Wrangling/Numerosity_Reduction.md)
+- [x] [Normalization](Data_Munging_Wrangling/Normalization.md)
+- [x] [Data Scrubbing](Data_Munging_Wrangling/Data_Scrubbing.md)
 
 # Programming
 - [x] Python

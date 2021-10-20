@@ -1,9 +1,6 @@
 ongoing topics to cover
 
 # Data Munging/ - Wrangling
-- [ ] Dimension & Numeriosity Reduction
-- [ ] Normalization
-- [ ] Data Scrubbing
 - [ ] Feature Extraction
 - [ ] Sampling
 
