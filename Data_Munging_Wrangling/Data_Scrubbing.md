@@ -84,12 +84,35 @@ Convert enums into numericals. This step basically moves the whole data into som
 [see here](Data_Munging_Wrangling/Normalization.md)
 
 #### Missing values
+**Always keep in mind, changing data will alter the information it contains!**
 1. Drop
     - if missing values are very rare and randomly we can just drop those records
     - if many missing values we can most likely drop the whole column
 2. Impute
     - generates new data points based on existings
-    - uses statistical values like mean (not [skewed data](https://medium.com/omarelgabrys-blog/statistics-probability-exploratory-data-analysis-714f361b43d1#92d4)) or median (not sensitive to outliners; skewed data)
-3. Hot-deck
+    1. uses statistical values like mean (not [skewed data](https://medium.com/omarelgabrys-blog/statistics-probability-exploratory-data-analysis-714f361b43d1#92d4)) or median (not sensitive to outliners; skewed data)
+    2. linear regression
+    3. Hot-deck
+        - copying values from similar records
+        - only really practical with enough data
+        - filling with random data
+        - sequential hot-deck imputation
+        - k-nearest neighbour imputation
+3. Flag
+    - missing information may be information in itself
+    - imporant if missing values are not random
+    - numerical data should not be used
+    - categorical data may receive a "Missing" category for those cases
+    - `missing value != default value`
+    - most low-key way to handle missing values
 
-currently at [here](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4#4acb)
+#### Outliners
+**Any value that lies more than `(1.5 * IQR)` with `IQR := Q3-Q1` away from `Q1` and `Q3` is considered an outliner.**
+
+Outliners can and will be affected by outliners. Outliners might throw the model off from where the most of the data is.
+
+## Verifying
+After the dataset is cleaned we need to verify correctness by re-inspecting the data and making sure all rules and constraints still hold.
+
+## Reporting
+Reporting changes in the data is as important as cleaning the data. Do it!

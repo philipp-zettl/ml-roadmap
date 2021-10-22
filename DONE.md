@@ -19,6 +19,8 @@ Not required
 - [x] [Numerosity Reduction](Data_Munging_Wrangling/Numerosity_Reduction.md)
 - [x] [Normalization](Data_Munging_Wrangling/Normalization.md)
 - [x] [Data Scrubbing](Data_Munging_Wrangling/Data_Scrubbing.md)
+- [x] [Feature Extraction](Data_Munging_Wrangling/Feature_Extraction.md)
+- [x] [Sampling](Data_Munging_Wrangling/Sampling.md)
 
 # Programming
 - [x] Python
@@ -44,8 +46,6 @@ Skipped. I've used different visualization tools and implemented my own. [Refere
 
 # Machine Learning
 - [x] Concepts, Inputs & Attributes
-- [x] Cost Function and GC
-- [x] Over-/ Underfitting
 - [x] Supervised Learning
 - [x] Unsupervised Learning
 
