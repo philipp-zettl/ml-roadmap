@@ -13,8 +13,6 @@ Not required:
 - [ ] Monte Carlo Method
 
 # Machine Learning
-- [ ] Training, validation and test data
-- [ ] Precision vs. Recall
 - [ ] Bias & Variance
 - [ ] Supervised Learning
 - [ ] Unsupervised Learning
