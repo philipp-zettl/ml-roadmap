@@ -46,6 +46,8 @@ Skipped. I've used different visualization tools and implemented my own. [Refere
 
 # Machine Learning
 - [x] Concepts, Inputs & Attributes
+- [x] [Cost Function and GC](Machine_Learning/Cost_Function_and_GC.md)
+- [x] [Overfitting / Underfitting](Machine_Learning/Over_Underfitting.ipynb)
 - [x] Supervised Learning
 - [x] Unsupervised Learning
 
