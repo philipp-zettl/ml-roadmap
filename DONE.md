@@ -46,8 +46,11 @@ Skipped. I've used different visualization tools and implemented my own. [Refere
 
 # Machine Learning
 - [x] Concepts, Inputs & Attributes
-- [x] Supervised Learning
-- [x] Unsupervised Learning
+- [x] [Cost Function and GC](Machine_Learning/Cost_Function_and_GC.md)
+- [x] [Overfitting / Underfitting](Machine_Learning/Over_Underfitting.ipynb)
+- [x] [Training, validation and test data](Machine_Learning/Training_Validation_Test_Sets.md)
+- [x] [Precision vs. Recall](Machine_Learning/Precision_Recall.ipynb)
+
 
 # Neural Networks
 - [x] understanding NNs

@@ -13,12 +13,7 @@ Not required:
 - [ ] Monte Carlo Method
 
 # Machine Learning
-- [ ] [Cost Function and GC](Machine_Learning/Cost_Function_and_GC.md)
-- [ ] Overfitting / Underfitting
-- [ ] Training, validation and test data
-- [ ] Precision vs. Recall
-- [ ] Bias & Variance
-- [ ] Supervised Learning
+- [ ] [Supervised Learning](Machine_Learning/Supervised_Learning/)
 - [ ] Unsupervised Learning
 - [ ] Ensemble Learning
 - [ ] Collaborative Filtering
