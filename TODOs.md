@@ -13,8 +13,7 @@ Not required:
 - [ ] Monte Carlo Method
 
 # Machine Learning
-- [ ] Bias & Variance
-- [ ] Supervised Learning
+- [ ] [Supervised Learning](Machine_Learning/Supervised_Learning/)
 - [ ] Unsupervised Learning
 - [ ] Ensemble Learning
 - [ ] Collaborative Filtering
