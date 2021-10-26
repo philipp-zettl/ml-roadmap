@@ -33,15 +33,17 @@ There are a few major issues to consider in SL
   - are we overfitting/underfitting the training data?
 
 ### Algorithms
-- [Linear Regression](Regression.ipynb)
-- [Poisson Regression](Regression.ipynb)
-- Logistic Regression
+- [Regression](Regression.ipynb)
+  - [Linear Regression](Regression.ipynb)
+  - [Poisson Regression](Regression.ipynb)
+- [Classification](Classification.ipynb)
+  - [Logistic Regression](Classification.ipynb)
+  - [Naive Bayes](Classification.ipynb)
+  - Linear discriminant analysis
+  - [Decision trees](Classification.ipynb)
+  - [k-nearest neighbor algorithm](Classification.ipynb)
+  - [Neural networks (Multilayer perceptron)](Classification.ipynb)
 - Support-Vector machines
-- Naive Bayes
-- Linear discriminant analysis
-- Decision trees
-- k-nearest neighbor algorithm
-- Neural networks (Multilayer perceptron)
 - Similarity learning
 
 Supervised learning algorithms are working the following way:

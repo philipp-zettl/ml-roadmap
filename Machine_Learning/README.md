@@ -1,0 +1,17 @@
+# Machine Learning
+- General
+  - [Cost function & SGD](Cost_Function_and_GC.md)
+  - [Overfitting/Underfitting](Over_Underfitting.ipynb)
+  - [Training, validation & test data](Training_Validation_Test_Sets.md)
+  - [Precision vs. Recall](Precision_Recall.ipynb)
+  - [Bias & Variance](Bias_Variance.md)
+- Methods
+  - [Supervised Learning](Supervised_Learning/)
+  - [Unsupervised Learning](Unsupervised_Learning/)
+  - [Ensamble Learning](Ensamble_Learning/)
+  - [Reinforcement Learning](Reinforcement_Learning/)
+- Use Cases
+  - [Sentiment Analysis]()
+  - [Collaborative Filtering]()
+  - [Tagging]()
+  - [Prediction]()

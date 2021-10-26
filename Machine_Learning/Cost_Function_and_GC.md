@@ -55,4 +55,4 @@ As the model iterates through the training epochs it gradually converges towards
 
 But let's get our hands dirty with some example coding.
 
-You can find an interactive google colab [here](https://colab.research.google.com/drive/1orS2LEMQ8d4XTgEPdvSdJqUtmhR_thbw).
+You can find an interactive google colab [here](SimpleLogRegSGD.ipynb).

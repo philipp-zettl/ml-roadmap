@@ -20,7 +20,6 @@ Not required:
 - [ ] Tagging
 - [ ] Prediction
 - [ ] Least²-Fit
-- [ ] Regression
  
 Not required:
 - [ ] Lift
