@@ -50,6 +50,8 @@ Skipped. I've used different visualization tools and implemented my own. [Refere
 - [x] [Overfitting / Underfitting](Machine_Learning/Over_Underfitting.ipynb)
 - [x] [Training, validation and test data](Machine_Learning/Training_Validation_Test_Sets.md)
 - [x] [Precision vs. Recall](Machine_Learning/Precision_Recall.ipynb)
+- [x] [Regression](Machine_Learning/Supervised_Learning/Regression.ipynb)
+- [x] [Classification](Machine_Learning/Supervised_Learning/Classification.ipynb)
 
 
 # Neural Networks
