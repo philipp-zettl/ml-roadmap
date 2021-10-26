@@ -37,11 +37,11 @@ There are a few major issues to consider in SL
 - [Poisson Regression](Regression.ipynb)
 - Logistic Regression
 - Support-Vector machines
-- Naive Bayes
+- [Naive Bayes](Classification.ipynb)
 - Linear discriminant analysis
-- Decision trees
-- k-nearest neighbor algorithm
-- Neural networks (Multilayer perceptron)
+- [Decision trees](Classification.ipynb)
+- [k-nearest neighbor algorithm](Classification.ipynb)
+- [Neural networks (Multilayer perceptron)](Classification.ipynb)
 - Similarity learning
 
 Supervised learning algorithms are working the following way:
