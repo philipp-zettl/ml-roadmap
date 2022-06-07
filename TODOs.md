@@ -13,7 +13,7 @@ Not required:
 - [ ] Monte Carlo Method
 
 # Machine Learning
-- [ ] [Supervised Learning](Machine_Learning/Supervised_Learning/)
+- [x] [Supervised Learning](Machine_Learning/Supervised_Learning/)
 - [ ] Unsupervised Learning
 - [ ] Ensemble Learning
 - [ ] Collaborative Filtering
@@ -27,20 +27,20 @@ Not required:
 - [ ] Sentiment Analysis
 
 # Neural Networks
-- [ ] Vanishing/Exploding Gradient Problem
-- [ ] FF NNs
-- [ ] auto encoder
-- [ ] CNNs
+- [x] Vanishing/Exploding Gradient Problem
+- [x] FF NNs
+- [x] auto encoder
+- [x] CNNs
 - [ ] RNNs
 - [ ] Transformer
 - [ ] Siamese Network
 - [ ] Residual Connections
-- [ ] Optimizers
-- [ ] Batch Normalization
-- [ ] Batch Size Effects
-- [ ] Regularization
-- [ ] Multitask Learning
-- [ ] Transfer Learning
+- [x] Optimizers
+- [x] Batch Normalization
+- [x] Batch Size Effects
+- [x] Regularization
+- [x] Multitask Learning
+- [x] Transfer Learning
 
 
 Not required:
@@ -56,7 +56,7 @@ Not required:
 - [ ] Feature Extraction
 - [ ] Marked Based Analysis
 - [ ] Association Rules
-- [ ] SVM (Support Vector Machines)
+- [ ] SVM (Support Vector Machines) [partially done, but not used in realm of NLP]
 - [ ] TF-IDF
 - [ ] Text Analysis
 - [ ] Named Entity Recognition
